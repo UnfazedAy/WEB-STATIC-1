@@ -7,7 +7,7 @@ footer {
     width: 100%;
     bottom: 0px;
     position: fixed;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 60px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
 }
